@@ -1,7 +1,7 @@
 # ipin-go
 - iphone png normalizer
 
-- impressed by Axel E. Brzostowski iPhone PNG Images Normalizer in Python
+- transferred from Axel E. Brzostowski iPhone PNG Images Normalizer in Python
   - https://axelbrz.com/?mod=iphone-png-images-normalizer
 
 # How to use
